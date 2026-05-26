@@ -1,4 +1,7 @@
 # EXPERIMENT 05 SOIL MOISTURE SENSOR INTERFACE TO IOT DEVELOPMENT BOARD
+## Reg.NO: 212224040264
+## Date : 22/05/2026
+## Dept : CSE
 
 ## Aim: 
 
@@ -269,7 +272,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output screen shots on serial monitor   :
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/b2f8a038-47de-4910-ac4a-b609263ccb8a" />
+<img width="1018" height="860" alt="image" src="https://github.com/user-attachments/assets/edec465f-1fdb-4434-8ec8-509b99ff7577" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3437e46e-7270-4022-884a-a65bb193bb5a" />
+
 
  
  
